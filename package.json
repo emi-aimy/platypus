@@ -60,7 +60,7 @@
     "@codemirror/lang-python": "^6.1.1",
     "@github/clipboard-copy-element": "^1.1.2",
     "@ibm/plex": "^6.1.1",
-    "@jupyter-widgets/html-manager": "^0.20.2",
+    "@jupyter-widgets/html-manager": "^0.20.3",
     "@jupyter-widgets/jupyterlab-manager": "^3.1.2",
     "@jupyterlab/mathjax2": "^3.5.2",
     "@jupyterlab/outputarea": "^3.5.2",
@@ -130,7 +130,7 @@
     "sass-mq": "^6.0.0",
     "simple-git-hooks": "^2.8.1",
     "start-server-and-test": "^1.14.0",
-    "tslib": "^2.4.1",
+    "tslib": "^2.5.0",
     "vue-demi": "^0.12.1"
   }
 }
